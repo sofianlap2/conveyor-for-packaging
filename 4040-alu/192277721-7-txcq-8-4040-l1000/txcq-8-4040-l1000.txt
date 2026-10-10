@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-27122024-029288";"";
+"MATERIAL";"Aluminum";"";
+"TraceParts.PartTitle";"Aluminum Extrusions (Customizable)";"";
+"TraceParts.InstanceId";"90-27122024-029288C8B80B1FY0YJAWQMO1MQRVMBM";"";
+"REFERENCE";"TXCQ-8-4040-L1000";"";
+"Process";"Aluminum Extrusion";"";
+"SUPPLIER";"JLCMC";"";
+"DESIGN";"Aluminum Extrusion - TXCQ-8-4040-L1000";"";
+"Part_Number_ProductPage_URL";"https://jlcmc.com/?from=TP_A";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
